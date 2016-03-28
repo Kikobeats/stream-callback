@@ -1,0 +1,48 @@
+{
+  "name": "stream-callback",
+  "description": "Turns a stream into a callback.",
+  "homepage": "https://github.com/Kikobeats/stream-callback",
+  "version": "0.0.0",
+  "main": "./index.js",
+  "author": {
+    "email": "josefrancisco.verdu@gmail.com",
+    "name": "Kiko Beats",
+    "url": "https://github.com/Kikobeats"
+  },
+  "repository": "Kikobeats/stream-callback",
+  "bugs": {
+    "url": "https://github.com/Kikobeats/stream-callback/issues"
+  },
+  "keywords": [
+    "stream",
+    "callback",
+    "stream2cb",
+    "convert",
+    "transform",
+    "wait"
+  ],
+  "dependencies": {
+    "concat-stream": "~1.5.1",
+    "end-of-stream": "~1.1.0",
+    "is-stream": "~1.0.1",
+    "lodash.after": "~4.0.1",
+    "whoops": "~2.0.1"
+  },
+  "devDependencies": {
+    "coffee-script": "latest",
+    "git-dirty": "latest",
+    "mocha": "latest",
+    "should": "latest",
+    "standard": "latest"
+  },
+  "engines": {
+    "node": ">= 4"
+  },
+  "scripts": {
+    "clean": "rm -rf node_modules",
+    "lint": "standard lib",
+    "pretest": "npm run lint",
+    "test": "mocha"
+  },
+  "license": "MIT"
+}
