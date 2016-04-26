@@ -1,3 +1,10 @@
+<a name="1.0.1"></a>
+## 1.0.1 (2016-04-26)
+
+* chore(package): update dependencies ([960b491](https://github.com/kikobeats/stream-callback/commit/960b491))
+
+
+
 <a name="1.0.0"></a>
 # 1.0.0 (2016-04-26)
 
