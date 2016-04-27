@@ -35,6 +35,7 @@
     "coffee-script": "latest",
     "git-dirty": "latest",
     "mocha": "latest",
+    "readable-stream": "latest",
     "should": "latest",
     "standard": "latest"
   },
