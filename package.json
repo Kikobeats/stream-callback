@@ -29,7 +29,7 @@
     "end-of-stream": "~1.1.0",
     "is-stream": "~1.1.0",
     "lodash.after": "~4.0.1",
-    "whoops": "~2.1.0"
+    "whoops": "~2.2.0"
   },
   "devDependencies": {
     "coffee-script": "latest",
