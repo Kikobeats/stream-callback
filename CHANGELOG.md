@@ -1,3 +1,13 @@
+<a name="1.0.3"></a>
+## 1.0.3 (2016-07-31)
+
+* Remove unnecessary whoops dep ([82d51fa](https://github.com/kikobeats/stream-callback/commit/82d51fa))
+* chore(package): update whoops to version 2.1.0 ([418c0ce](https://github.com/kikobeats/stream-callback/commit/418c0ce))
+* chore(package): update whoops to version 2.2.0 ([68c259f](https://github.com/kikobeats/stream-callback/commit/68c259f))
+* chore(package): update whoops to version 3.0.0 ([7c1b408](https://github.com/kikobeats/stream-callback/commit/7c1b408))
+
+
+
 <a name="1.0.2"></a>
 ## 1.0.2 (2016-04-27)
 
