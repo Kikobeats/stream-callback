@@ -28,8 +28,7 @@
     "concat-stream": "~1.5.1",
     "end-of-stream": "~1.1.0",
     "is-stream": "~1.1.0",
-    "lodash.after": "~4.0.1",
-    "whoops": "~3.0.0"
+    "lodash.after": "~4.0.1"
   },
   "devDependencies": {
     "coffee-script": "latest",
