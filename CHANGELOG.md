@@ -1,3 +1,12 @@
+<a name="1.0.4"></a>
+## 1.0.4 (2017-07-18)
+
+* Update README.md ([a9b7435](https://github.com/kikobeats/stream-callback/commit/a9b7435))
+* docs(readme): add Greenkeeper badge ([c21820d](https://github.com/kikobeats/stream-callback/commit/c21820d))
+* chore(package): update dependencies ([9814bb3](https://github.com/kikobeats/stream-callback/commit/9814bb3))
+
+
+
 <a name="1.0.3"></a>
 ## 1.0.3 (2016-07-31)
 
