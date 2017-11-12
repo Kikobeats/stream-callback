@@ -1,7 +1,5 @@
 # stream-callback
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/stream-callback.svg)](https://greenkeeper.io/)
-
 ![Last version](https://img.shields.io/github/tag/Kikobeats/stream-callback.svg?style=flat-square)
 [![Build Status](http://img.shields.io/travis/Kikobeats/stream-callback/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/stream-callback)
 [![Dependency status](http://img.shields.io/david/Kikobeats/stream-callback.svg?style=flat-square)](https://david-dm.org/Kikobeats/stream-callback)
